@@ -1,2 +1,1 @@
-    Hello git
-    let's change a bit
+Learning to use git
